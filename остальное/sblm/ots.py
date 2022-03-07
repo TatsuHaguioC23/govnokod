@@ -1,3 +1,4 @@
 import requests
 
-print(requests.get('https://api.github.com'))
+for x in range(666):
+	print(requests.get('https://camo.githubusercontent.com/9ae360d8b6a1e297bd0801350c2b66f5fb960209deaa28742a1883d4b9345aec/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406162737364756f3f7468656d653d72756c653334'))
